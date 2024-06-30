@@ -28,7 +28,7 @@ Include any additional comments, remarks, or references related to the token, su
 
 ## Contributors
 Provide information about the contributor(s) who documented or discovered this token. Include their name, affiliation, and contact information if applicable. Use the following code to add your profile - 
-[<img src="https://github.com/{{contributor}}.png" style="width:60px; height:60px; border-radius:50%;"/>](https://github.com/{{contributor}})
+[<img src="https://github.com/{{contributor}}.png" style="width:60px; height:60px;"/>](https://github.com/{{contributor}})
 ```
 
 ## Contact

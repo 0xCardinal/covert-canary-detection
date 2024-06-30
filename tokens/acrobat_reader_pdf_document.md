@@ -15,5 +15,5 @@ There are multiple ways to know if the PDF file is a canary token or not -
 2. Use [CanaryTokenScanner.py](../assets/CanaryTokenScanner.py) which will read the PDF stream and get the URLs that are embeded in the PDF to be triggered when opening in an Adobe Acrobat Reader. ![CanaryTokenScanner Screenshot](../assets/screenshots/CanaryTokenScanner.png) Observe that PDF file contains the canarytokens.net domain, that was supposed to use for callback.
 
 ## Contributors
-[<img src="https://github.com/0xcardinal.png" style="width:60px; height:60px; border-radius:50%;"/>](https://github.com/0xcardinal)
+[<img src="https://github.com/0xcardinal.png" style="width:60px; height:60px;"/>](https://github.com/0xcardinal)
 

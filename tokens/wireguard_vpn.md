@@ -22,7 +22,7 @@ The token from the canarytokens looks something like this -
   Endpoint = 52.18.63.80:51820
   PersistentKeepalive = 240
 ```
-If we observe the Endpoint IP, it resolves to an address associated with `canarytokens.org`.
+Observe the Endpoint IP, it resolves to an address associated with `canarytokens.org`.
 ![Wireguard Endpoint IP](../assets/screenshots/wireguard_vpn.png)
 
 ## Contributors

@@ -31,5 +31,7 @@ Provide information about the contributor(s) who documented or discovered this t
 [<img src="https://github.com/{{contributor}}.png" style="width:60px; height:60px;"/>](https://github.com/{{contributor}})
 ```
 
+4. If any code snippets needs to be added use this [carbon.sh pre-configured link](https://carbon.now.sh/?bg=rgba%28222%2C171%2C99%2C1%29&t=duotone-dark&wt=none&l=auto&width=574&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=31px&ph=30px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false).
+
 ## Contact
 For any queries or concern, feel free to contact.

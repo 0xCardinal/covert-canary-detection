@@ -12,7 +12,7 @@ Keep the [`indicators.md`](../indicators.md) file handy, as it contains the indi
 
 There are multiple ways to know if the PDF file is a canary token or not - 
 ### Method 1
-Open the PDF in any other software other than Adobe Acrobat Reader.
+Open the PDF in any other software other than Adobe Acrobat Reader. (But by using this method you won't be sure if it is a canary token or not)
 
 ### Method 2
 Use [CanaryTokenScanner.py](../assets/CanaryTokenScanner.py) which will read the PDF stream and get the URLs that are embeded in the PDF to be triggered when opening in an Adobe Acrobat Reader. ![CanaryTokenScanner Screenshot](../assets/screenshots/CanaryTokenScanner.png) Observe that PDF file contains the canarytokens.net domain, that was supposed to use for callback.

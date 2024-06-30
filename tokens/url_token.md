@@ -1,13 +1,13 @@
-# URL/Web Token
+# URL/Web Bug Token
 A URL/Web token from canarytokens.org is a special type of token that triggers an alert when a specific URL is accessed. This is typically used to detect unauthorized access or exfiltration attempts.
 
 ## Applicable Environments
 This token is applicable in any environment where URLs can be accessed through a web browser or other web-based application.
 
-## How The Token Gets Triggered
+## How The Token Gets Triggered?
 The token gets triggered when the specific URL associated with the token is accessed. The URL will resolve the specified domain, which then sends a callback to the defined URL, indicating that the token has been triggered.
 
-## How to Identify the Token Without Triggering It
+## How to Identify the Token Without Triggering It?
 Keep the [`indicators.md`](../indicators.md) file handy, as it contains the indicators of how the token is a canary token. <!-- Do not delete this line -->
 
 To identify if a URL/Web token is a canary token, follow these steps:

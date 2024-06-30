@@ -5,7 +5,7 @@ Microsoft Word Document canary token is a `docx` file which is triggered when th
 If the file is open using the Microsoft Word in any Operating System.
 
 ## How The Token Gets Triggered?
-Open the `docx` file in Microsoft Word application. It will resolve the canarytoken.org URL embeded in the document & send a callback to the defined URL.
+Open the `docx` file in Microsoft Word application. It will resolve the canarytoken.com URL embeded in the document & send a callback to the defined URL.
 
 ## How to Identify the Token Without Triggering It?
 Keep the [`indicators.md`](../indicators.md) file handy, as it contains the indicators of how the file is a canary token. <!-- Do not delete this line -->

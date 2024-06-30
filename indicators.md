@@ -27,15 +27,15 @@ The information mentioned above was obtained through a reverse WHOIS scan, and i
 
 The confirmed domains have their IP addresses which can be traced back to the Thinkst Canary - 
 
-| Domain Name           | IP Address     |
-|-----------------------|----------------|
-| honeypdfs.net         | 54.74.148.87   |
-| canarytokens.com      | 52.18.63.80    |
-| o3n.io                |                |
-| cnr.io                |                |
-| canarytokens.org      | 52.18.63.80    |
-| ssl-secure-srv.com    | 52.49.19.247   |
-| ssl-srv72.com         | 44.213.25.175  |
+| Domain Name           | IP Address   |
+|-----------------------|--------------|
+| honeypdfs.net         | 54.74.148.87 |
+| canarytokens.com      | 52.18.63.80  |
+| o3n.io                |       -      |
+| cnr.io                |       -      |
+| canarytokens.org      | 52.18.63.80  |
+| ssl-secure-srv.com    | 52.49.19.247 |
+| ssl-srv72.com         | 44.213.25.175|
 
 Domains like `o3n.io` and `cnr.io` typically do not have directly associated IP addresses because they are often used for callback or redirection purposes, which commonly involve subdomains for specific actions or tracking.
 
